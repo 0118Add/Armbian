@@ -432,6 +432,3 @@ jobs:
             - Default password: `1234`
             - Install command: `armbian-install`
             - Update command: `armbian-update`
-            ### Applicable Platform
-            - 🐧 `arm64`
-            - 🐋 Docker image: https://hub.docker.com/u/ophub
